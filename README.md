@@ -6,7 +6,7 @@
 ### Skills
     -OSINT & Recon: Nmap & Gobuster, Sublist3r
     -Exploitation: SQLMap, Burp Suite, Metasploit
-    -Privillage Escalation: LinPEAS, WinPEAS, GTFOBins, Sudo/SUID misoconfigs
+    -Privilege Escalation: LinPEAS, WinPEAS, GTFOBins, Sudo/SUID misconfigs
     -Post Explotation: SSH tunneling, reverse shell, Chisel, Pivoting
     -Tools: Kali Linux, Hydra, JohnTheRipper, Wireshark, Netcat
     -Languages: Bash, Python (Basic automation)
