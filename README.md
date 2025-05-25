@@ -1,9 +1,9 @@
 👋 Hi, I’m @Almond2107
-###About me
+### About me
   I'm a passionate cybersecurity learner focused on ethical hacking, red teaming,
   privillage escalation and post-exploitation techniques on TryHackMe with Adapt level.
   
-###Skills
+### Skills
     -OSINT & Recon: Nmap & Gobuster, Sublist3r
     -Exploitation: SQLMap, Burp Suite, Metasploit
     -Privillage Escalation: LinPEAS, WinPEAS, GTFOBins, Sudo/SUID misoconfigs
@@ -11,9 +11,9 @@
     -Tools: Kali Linux, Hydra, JohnTheRipper, Wireshark, Netcat
     -Languages: Bash, Python (Basic automation)
 
-###Platforms
-  TryHackMe: 
+### Platforms
+  TryHackMe: [ExploitX]
     https://tryhackme.com/p/ExploitX1
-  Blog: 
+### Blog: 
     (coming soon) - I plan to write CTF writeups and hacking guides in ENglish and Uzbek
 
