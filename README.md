@@ -17,7 +17,3 @@
   Blog: 
     (coming soon) - I plan to write CTF writeups and hacking guides in ENglish and Uzbek
 
-<!---
-Almond2107/Almond2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
