@@ -12,14 +12,22 @@
 ---
 
 ### 🧰 Tech Stack & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux)
-![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge&logo=wireshark&logoColor=white)
+### 🛡️ Cybersecurity Tools:
+![Nmap](https://img.shields.io/badge/Nmap-007DC6?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-3e8ed0?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge)
 ![Hydra](https://img.shields.io/badge/Hydra-grey?style=for-the-badge)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge)
+
+---
+
+### 🌐 Web Development Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
 
 
 ---
