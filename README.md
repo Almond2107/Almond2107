@@ -12,7 +12,7 @@
 ---
 
 ### 🧰 Tech Stack & Tools:
-### 🛡️ Cybersecurity Tools:
+### ⚔️ Penetration Testing Tools:
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-005F6B?style=for-the-badge&logo=nmap&logoColor=white)
@@ -25,8 +25,6 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0069AA?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Red Team](https://img.shields.io/badge/Red_Team-990000?style=for-the-badge&logo=redhat&logoColor=white)
-![Pentester](https://img.shields.io/badge/Pentester-000000?style=for-the-badge&logo=thealgorithms&logoColor=white)
-
 
 ---
 
@@ -36,8 +34,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
 ---
 
 ### 📊 GitHub Stats:
@@ -46,9 +42,13 @@
 
 ---
 
-### 🔗 Platforms:
-- 🔐 TryHackMe: [ExploitX](https://tryhackme.com/p/ExploitX1)
-- ✍️ Medium Blog: [@root21077](https://medium.com/@root21077)
+### 🌐 Social:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadqodir-abdukayumov-6bb861299)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@root21077)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/ExploitX)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Almond2107)
+
 
 ---
 
