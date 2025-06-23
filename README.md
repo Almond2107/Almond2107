@@ -30,6 +30,8 @@
 ![ffuf](https://img.shields.io/badge/ffuf-white?style=for-the-badge&labelColor=111111&color=111111)
 ![Gobuster](https://img.shields.io/badge/Gobuster-black?style=for-the-badge&labelColor=FBCA04&color=FBCA04)
 
+<img src="https://img.shields.io/badge/Netcat-%23000000.svg?style=for-the-badge&logo=netcat&logoColor=white" alt="Netcat"> <img src="https://img.shields.io/badge/Bettercap-%23D00000.svg?style=for-the-badge&logo=bettercap&logoColor=white" alt="Bettercap">
+
 
 ---
 
