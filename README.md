@@ -16,6 +16,11 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge&logo=wireshark&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-grey?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge)
+
 
 ---
 
