@@ -13,18 +13,21 @@
 
 ### 🧰 Tech Stack & Tools:
 ### 🛡️ Cybersecurity Tools:
-![Nmap](https://img.shields.io/badge/Nmap-007DC6?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-3e8ed0?style=for-the-badge)
-![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=proxmox&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff8800?style=for-the-badge&logo=burpsuite&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-3e8ed0?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-grey?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge)
+![LinPEAS](https://img.shields.io/badge/LinPEAS-darkgreen?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0069AA?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
 ### 🌐 Web Development Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-007DC6?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
