@@ -25,6 +25,11 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0069AA?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Red Team](https://img.shields.io/badge/Red_Team-990000?style=for-the-badge&logo=redhat&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-800000?style=for-the-badge&logo=hackthebox&logoColor=green)
+![ffuf](https://img.shields.io/badge/ffuf-222222?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-FBCA04?style=for-the-badge&logo=docker&logoColor=black)
+
 
 ---
 
