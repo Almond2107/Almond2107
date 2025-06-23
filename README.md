@@ -15,7 +15,7 @@
 ### 🛡️ Cybersecurity Tools:
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=proxmox&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-005F6B?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff8800?style=for-the-badge&logo=burpsuite&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-3e8ed0?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-grey?style=for-the-badge)
@@ -27,11 +27,10 @@
 ---
 
 ### 🌐 Web Development Tools:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge&logo=wireshark&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
