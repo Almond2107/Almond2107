@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on: FastAPI projects and CTF writeups
-- 🌱 I’m learning: Privilege Escalation, Reverse Shell, Rust
+- 🌱 I’m learning: Privilege Escalation, Reverse Shell
 - ✍️ I write on [Medium](https://medium.com/@root21077)
 - 💬 Ask me about: Linux, Python, Hacking tools
 - 📫 Reach me on: [LinkedIn](https://linkedin.com/in/muhammadqodir-abdukayumov-6bb861299)
@@ -26,7 +26,7 @@
 ---
 
 ### 🔗 Platforms:
-- 🔐 TryHackMe: [ExploitX](https://tryhackme.com/p/ExploitX)
+- 🔐 TryHackMe: [ExploitX](https://tryhackme.com/p/ExploitX1)
 - ✍️ Medium Blog: [@root21077](https://medium.com/@root21077)
 
 ---
