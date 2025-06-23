@@ -3,11 +3,22 @@
 
 ---
 
-- 🔭 I’m currently working on: FastAPI projects and CTF writeups
-- 🌱 I’m learning: Privilege Escalation, Reverse Shell
-- ✍️ I write on [Medium](https://medium.com/@root21077)
-- 💬 Ask me about: Linux, Python, Hacking tools
-- 📫 Reach me on: [LinkedIn](https://linkedin.com/in/muhammadqodir-abdukayumov-6bb861299)
+### 👋 About Me
+
+🔭 I’m currently working on: **FastAPI projects** and **CTF writeups**  
+🌱 I’m learning: **Privilege Escalation**, **Reverse Shell**  
+✍️ I write on [**Medium**](https://medium.com/@root21077)  
+💬 Ask me about: **Linux**, **Python**, **Hacking tools**  
+📫 Reach me on: [**LinkedIn**](https://www.linkedin.com/in/muhammadqodir-abdukayumov-6bb861299)
+
+---
+
+### 🧠 Quick Facts
+
+🔐 I'm currently improving my **security skills**  
+🌐 Learning about **network security** and **ethical hacking**  
+🛠️ Ask me about **penetration testing tools**  
+☕ Fun fact: I can find vulnerabilities **before the coffee kicks in**
 
 ---
 
