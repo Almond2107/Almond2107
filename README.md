@@ -16,6 +16,7 @@
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-00688F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-005F6B?style=for-the-badge&logo=nmap&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-cc3300?style=for-the-badge&logo=exploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff8800?style=for-the-badge&logo=burpsuite&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-3e8ed0?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-grey?style=for-the-badge)
@@ -23,6 +24,9 @@
 ![LinPEAS](https://img.shields.io/badge/LinPEAS-darkgreen?style=for-the-badge)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0069AA?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Red Team](https://img.shields.io/badge/Red_Team-990000?style=for-the-badge&logo=redhat&logoColor=white)
+![Pentester](https://img.shields.io/badge/Pentester-000000?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
 
 ---
 
