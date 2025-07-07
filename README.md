@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Almond2107 (ExploitX)</h1>
-<h3 align="center">Cybersecurity Learner | Red Teamer | Python Developer</h3>
+<h3 align="center">Penetration Tester | Red Teamer | Python Developer</h3>
 
 ---
 
