@@ -5,7 +5,7 @@
 
 ### 👋 About Me
 
-🔭 I’m currently working on: **FastAPI projects** and **CTF writeups**  
+🔭 I’m currently working on: **Django project** and **CTF writeups**  
 🌱 I’m learning: **Privilege Escalation**, **Reverse Shell**  
 ✍️ I write on [**Medium**](https://medium.com/@root21077)  
 💬 Ask me about: **Linux**, **Python**, **Hacking tools**  
@@ -47,6 +47,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ---
 
